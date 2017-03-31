@@ -1,5 +1,5 @@
 # Sitecore.Support.154932
-This patch fixes the issue with &quot;Treelist with Search&quot; field that overlapsed other fields placed under it.
+This patch fixes the issue with &quot;Treelist with Search&quot; field that overlaps other fields placed under it.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.154932/blob/master/LICENSE).  
